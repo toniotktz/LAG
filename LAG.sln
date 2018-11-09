@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "LAG", "..\..\..\..\Program Files (x86)\Microsoft Visual Studio\VisualStudio\LAG\LAG\LAG.phpproj", "{C76CDC0B-D268-465A-B922-ECAD6F77095D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C76CDC0B-D268-465A-B922-ECAD6F77095D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C76CDC0B-D268-465A-B922-ECAD6F77095D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D5C5663-0CA7-4148-8F3E-62CA48718B0C}
+	EndGlobalSection
+EndGlobal
