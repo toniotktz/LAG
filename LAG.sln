@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "LAG", "..\..\..\..\Program Files (x86)\Microsoft Visual Studio\VisualStudio\LAG\LAG\LAG.phpproj", "{C76CDC0B-D268-465A-B922-ECAD6F77095D}"
+Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "LAG", "LAG\LAG.phpproj", "{C76CDC0B-D268-465A-B922-ECAD6F77095D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

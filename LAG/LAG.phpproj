@@ -16,16 +16,26 @@
     <IncludeDebugInformation>false</IncludeDebugInformation>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="bootstrap\index.php" />
     <Compile Include="index.php" />
     <Compile Include="Newletter.php" />
     <Compile Include="NousContacter.php" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="bootstrap\" />
+    <Folder Include="bootstrap\css\" />
+    <Folder Include="bootstrap\jquery-easing\" />
+    <Folder Include="bootstrap\jquery\" />
+    <Folder Include="bootstrap\js\" />
     <Folder Include="Images\" />
     <Folder Include="CSS\" />
     <Folder Include="svg\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="bootstrap\css\bootstrap.min.css" />
+    <Content Include="bootstrap\jquery-easing\jquery.easing.min.js" />
+    <Content Include="bootstrap\jquery\jquery.min.js" />
+    <Content Include="bootstrap\js\bootstrap.bundle.min.js" />
     <Content Include="CSS\StyleSheet1.css" />
     <Content Include="Images\accent.png" />
     <Content Include="Images\bullet.png" />
