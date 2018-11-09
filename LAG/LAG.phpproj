@@ -22,13 +22,17 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Images\" />
+    <Folder Include="CSS\" />
     <Folder Include="svg\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="CSS\StyleSheet1.css" />
     <Content Include="Images\accent.png" />
     <Content Include="Images\bullet.png" />
+    <Content Include="Images\fight.png" />
     <Content Include="Images\heroAccent.png" />
     <Content Include="Images\nazi.png" />
+    <Content Include="Images\obelish.jpg" />
     <Content Include="Images\orderedList0.png" />
     <Content Include="Images\orderedList1.png" />
     <Content Include="Images\orderedList2.png" />
@@ -39,7 +43,9 @@
     <Content Include="Images\orderedList7.png" />
     <Content Include="Images\orderedList8.png" />
     <Content Include="Images\orderedList9.png" />
+    <Content Include="Images\slifer.jpg" />
     <Content Include="Images\yugioh_Home.jpg" />
+    <Content Include="Images\yugiStat3.jpg" />
     <Content Include="svg\si-glyph-abacus.svg" />
     <Content Include="svg\si-glyph-adjustment-horizon.svg" />
     <Content Include="svg\si-glyph-adjustment-vertical.svg" />

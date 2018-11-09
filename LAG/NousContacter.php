@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="fr">
-<head>
+<head background="Images\fight.png">
     <title>Association Landes Arena Gaming</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -54,7 +54,7 @@
                 <div class="col-sm-4 text-center">
                     <div class="card">
                         <div class="card-body">
-                            <img class="card-img-top" src="Images\yugioh_Home.jpg"/>
+                            <img class="card-img-top" src="Images\slifer.jpg"/>
                             <h4 class="card-title">Antoine PESTEL</h4>
                             <p class="card-text">Trésorier</p>
                             <p>antoine.pestel@live.fr</p>
@@ -64,6 +64,7 @@
                 <div class="col-sm-4 text-center">
                     <div class="card">
                         <div class="card-body">
+                            <img class="card-img-top" src="Images\yugioh_Home.jpg"/>
                             <h4 class="card-title">Laurent BLANC</h4>
                             <p class="card-text">Président</p>
                             <p>mail</p>
@@ -73,6 +74,7 @@
                 <div class="col-sm-4 text-center">
                     <div class="card">
                         <div class="card-body">
+                            <img class="card-img-top" src="Images\obelish.jpg"/>
                             <h4 class="card-title">Sébastien Diouf</h4>
                             <p class="card-text">Secrétaire</p>
                             <p>mail</p>
