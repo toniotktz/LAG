@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="fr">
-<head background="Images\fight.png">
+<head>
     <title>Association Landes Arena Gaming</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
