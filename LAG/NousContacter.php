@@ -54,7 +54,7 @@
                 <div class="col-sm-4 text-center">
                     <div class="card">
                         <div class="card-body">
-                            <img class="card-img-top" src="Images\slifer.jpg"/>
+                            <img class="card-img-top" src="images\slifer.jpg"/>
                             <h4 class="card-title">Antoine PESTEL</h4>
                             <p class="card-text">Trésorier</p>
                             <p>antoine.pestel@live.fr</p>
@@ -64,7 +64,7 @@
                 <div class="col-sm-4 text-center">
                     <div class="card">
                         <div class="card-body">
-                            <img class="card-img-top" src="Images\yugioh_Home.jpg"/>
+                            <img class="card-img-top" src="images\yugioh_Home.jpg"/>
                             <h4 class="card-title">Laurent BLANC</h4>
                             <p class="card-text">Président</p>
                             <p>mail</p>
@@ -74,7 +74,7 @@
                 <div class="col-sm-4 text-center">
                     <div class="card">
                         <div class="card-body">
-                            <img class="card-img-top" src="Images\obelish.jpg"/>
+                            <img class="card-img-top" src="images\obelish.jpg"/>
                             <h4 class="card-title">Sébastien Diouf</h4>
                             <p class="card-text">Secrétaire</p>
                             <p>mail</p>
