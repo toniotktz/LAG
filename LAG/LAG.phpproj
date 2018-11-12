@@ -34,6 +34,7 @@
     <Folder Include="js\" />
     <Folder Include="jquery\" />
     <Folder Include="admin\" />
+    <Folder Include="pdo\" />
     <Folder Include="svg\" />
   </ItemGroup>
   <ItemGroup>
