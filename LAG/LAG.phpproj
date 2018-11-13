@@ -46,6 +46,7 @@
     <Content Include="bootstrap\jquery-easing\jquery.easing.min.js" />
     <Content Include="bootstrap\jquery\jquery.min.js" />
     <Content Include="bootstrap\js\bootstrap.bundle.min.js" />
+    <Content Include="CSS\bootstrap.min.css" />
     <Content Include="CSS\StyleSheet1.css" />
     <Content Include="images\48\facebook.png" />
     <Content Include="images\48\insta.png" />
@@ -75,6 +76,9 @@
     <Content Include="images\slifer.jpg" />
     <Content Include="images\yugioh_Home.jpg" />
     <Content Include="images\yugiStat3.jpg" />
+    <Content Include="js\bootstrap.bundle.min.js" />
+    <Content Include="js\jquery.easing.min.js" />
+    <Content Include="js\jquery.min.js" />
     <Content Include="svg\si-glyph-abacus.svg" />
     <Content Include="svg\si-glyph-adjustment-horizon.svg" />
     <Content Include="svg\si-glyph-adjustment-vertical.svg" />
