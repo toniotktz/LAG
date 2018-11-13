@@ -45,8 +45,10 @@
     <Content Include="CSS\StyleSheet1.css" />
     <Content Include="images\accent.png" />
     <Content Include="images\bullet.png" />
+    <Content Include="images\facebook.png" />
     <Content Include="images\fight.png" />
     <Content Include="images\heroAccent.png" />
+    <Content Include="images\insta.png" />
     <Content Include="images\nazi.png" />
     <Content Include="images\obelish.jpg" />
     <Content Include="images\orderedList0.png" />
@@ -60,6 +62,9 @@
     <Content Include="images\orderedList8.png" />
     <Content Include="images\orderedList9.png" />
     <Content Include="images\slifer.jpg" />
+    <Content Include="images\Twitch.png" />
+    <Content Include="images\twitter.png" />
+    <Content Include="images\youtube.png" />
     <Content Include="images\yugioh_Home.jpg" />
     <Content Include="images\yugiStat3.jpg" />
     <Content Include="svg\si-glyph-abacus.svg" />
