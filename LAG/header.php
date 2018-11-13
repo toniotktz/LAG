@@ -29,7 +29,7 @@
                     <a class="nav-link" href="Newletter.php">Newsletter</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="NousContacter.php">Nous Contacter</a>
+                    <a class="nav-link" href="NousContacter.php">Contact</a>
                 </li>
             </ul>
         </div>
