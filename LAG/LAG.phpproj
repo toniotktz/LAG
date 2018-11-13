@@ -16,7 +16,6 @@
     <IncludeDebugInformation>false</IncludeDebugInformation>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="bootstrap\index.php" />
     <Compile Include="footer.php" />
     <Compile Include="header.php" />
     <Compile Include="index.php" />
@@ -24,11 +23,6 @@
     <Compile Include="contact.php" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="bootstrap\" />
-    <Folder Include="bootstrap\css\" />
-    <Folder Include="bootstrap\jquery-easing\" />
-    <Folder Include="bootstrap\jquery\" />
-    <Folder Include="bootstrap\js\" />
     <Folder Include="images\" />
     <Folder Include="css\" />
     <Folder Include="features\" />
@@ -42,10 +36,6 @@
     <Folder Include="svg\" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="bootstrap\css\bootstrap.min.css" />
-    <Content Include="bootstrap\jquery-easing\jquery.easing.min.js" />
-    <Content Include="bootstrap\jquery\jquery.min.js" />
-    <Content Include="bootstrap\js\bootstrap.bundle.min.js" />
     <Content Include="css\bootstrap.min.css" />
     <Content Include="css\StyleSheet1.css" />
     <Content Include="images\48\facebook.png" />
