@@ -39,11 +39,13 @@
     <Content Include="css\bootstrap.min.css" />
     <Content Include="css\StyleSheet1.css" />
     <Content Include="images\48\facebook.png" />
+    <Content Include="images\64\discord.png" />
     <Content Include="images\48\insta.png" />
     <Content Include="images\48\twitch.png" />
     <Content Include="images\48\twitter.png" />
     <Content Include="images\48\youtube.png" />
     <Content Include="images\64\facebook.png" />
+    <Content Include="images\48\discord.png" />
     <Content Include="images\64\insta.png" />
     <Content Include="images\64\twitch.png" />
     <Content Include="images\64\twitter.png" />
