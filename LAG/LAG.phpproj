@@ -52,6 +52,7 @@
     <Content Include="images\64\youtube.png" />
     <Content Include="images\accent.png" />
     <Content Include="images\banniere.png" />
+    <Content Include="images\banniere2.png" />
     <Content Include="images\bullet.png" />
     <Content Include="images\fight.png" />
     <Content Include="images\heroAccent.png" />
