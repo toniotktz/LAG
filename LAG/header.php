@@ -1,4 +1,4 @@
-<head>
+<header>
     <title>Association Landes Arena Gaming</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -9,9 +9,7 @@
     <script src="js\bootstrap.bundle.min.js"></script>
     <script src="js\jquery.easing.min.js"></script>
     <script src="js\jquery.min.js"></script>
-        <div class="jumbotron text-center" style="margin-bottom:0">
-        <h1>Landes Arena Gaming</h1>
-    </div>
+        <img class="banniere" src="images\banniere.png"/>
     <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
         <a class="navbar-brand" href="Index.php">LAG</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
@@ -35,4 +33,4 @@
         <a href="https://www.youtube.com/channel/UCqG2o8Nm08YVKgXlUFMY0Cw"><img class="lien_social" src="images\48\youtube.png" /></a>
         </div>
     </nav>
-</head>
+</header>
