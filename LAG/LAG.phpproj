@@ -21,7 +21,7 @@
     <Compile Include="header.php" />
     <Compile Include="index.php" />
     <Compile Include="Newletter.php" />
-    <Compile Include="NousContacter.php" />
+    <Compile Include="contact.php" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="bootstrap\" />
@@ -30,7 +30,7 @@
     <Folder Include="bootstrap\jquery\" />
     <Folder Include="bootstrap\js\" />
     <Folder Include="images\" />
-    <Folder Include="CSS\" />
+    <Folder Include="css\" />
     <Folder Include="features\" />
     <Folder Include="images\48\" />
     <Folder Include="images\64\" />
@@ -46,8 +46,8 @@
     <Content Include="bootstrap\jquery-easing\jquery.easing.min.js" />
     <Content Include="bootstrap\jquery\jquery.min.js" />
     <Content Include="bootstrap\js\bootstrap.bundle.min.js" />
-    <Content Include="CSS\bootstrap.min.css" />
-    <Content Include="CSS\StyleSheet1.css" />
+    <Content Include="css\bootstrap.min.css" />
+    <Content Include="css\StyleSheet1.css" />
     <Content Include="images\48\facebook.png" />
     <Content Include="images\48\insta.png" />
     <Content Include="images\48\twitch.png" />
@@ -59,6 +59,7 @@
     <Content Include="images\64\twitter.png" />
     <Content Include="images\64\youtube.png" />
     <Content Include="images\accent.png" />
+    <Content Include="images\banniere.png" />
     <Content Include="images\bullet.png" />
     <Content Include="images\fight.png" />
     <Content Include="images\heroAccent.png" />

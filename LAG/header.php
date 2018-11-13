@@ -2,19 +2,13 @@
     <title>Association Landes Arena Gaming</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="CSS\Stylesheet1.css">
-    <link rel="stylesheet" href="CSS\bootstrap.min.css">
+    <link rel="stylesheet" href="css\Stylesheet1.css">
+    <link rel="stylesheet" href="css\bootstrap.min.css">
 
     <!-- Importation bootstrapp -->
     <script src="js\bootstrap.bundle.min.js"></script>
     <script src="js\jquery.easing.min.js"></script>
     <script src="js\jquery.min.js"></script>
-    <style>
-        .fakeimg {
-            height: 200px;
-            background: #aaa;
-        }
-    </style>
         <div class="jumbotron text-center" style="margin-bottom:0">
         <h1>Landes Arena Gaming</h1>
     </div>
@@ -29,7 +23,7 @@
                     <a class="nav-link" href="Newletter.php">Newsletter</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="NousContacter.php">Contact</a>
+                    <a class="nav-link" href="Contact.php">Contact</a>
                 </li>
             </ul>
         </div>
