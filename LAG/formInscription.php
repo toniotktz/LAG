@@ -36,6 +36,10 @@
                 </div>
             </div>
         </form>
+        <div class="text-center">
+            <button type="button" class="btn btn-primary">Confirmer</button>
+        </div>
+        
     </div>
 </body>
 <?php require "footer.php"?>
