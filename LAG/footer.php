@@ -1,5 +1,5 @@
 <footer>
-    <div class="jumbotron text-center" style="margin-bottom:0">
+    <div class="jumbotron text-center" style="margin-bottom:30px">
     <a href="https://www.instagram.com/laglandes/?hl=fr"><img class="lien_social" src="images\64\insta.png" /></a>
         <a href="https://www.facebook.com/LandesArenaGaming/"><img class="lien_social" src="images\64\facebook.png" /></a>
         <a href="https://twitter.com/ArenaLandes"><img class="lien_social" src="images\64\twitter.png" /></a>
