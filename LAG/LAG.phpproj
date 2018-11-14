@@ -17,6 +17,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="footer.php" />
+    <Compile Include="formInscription.php" />
     <Compile Include="header.php" />
     <Compile Include="index.php" />
     <Compile Include="Newletter.php" />
@@ -71,6 +72,7 @@
     <Content Include="images\yugioh_Home.jpg" />
     <Content Include="images\yugiStat3.jpg" />
     <Content Include="js\bootstrap.bundle.min.js" />
+    <Content Include="js\form.js" />
     <Content Include="js\jquery.easing.min.js" />
     <Content Include="js\jquery.min.js" />
     <Content Include="svg\si-glyph-abacus.svg" />

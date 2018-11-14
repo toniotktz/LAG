@@ -23,6 +23,9 @@
                 <li class="nav-item">
                     <a class="nav-link" href="Contact.php">Contact</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="formInscription.php">Inscription à l'association</a>
+                </li>
             </ul>
         </div>
         <div class="my-2 my-sm-0">
