@@ -27,7 +27,7 @@
                     <input type="tel" class="form-control" id="tel" placeholder="Entrer votre numero de telephone" name="tel" required />
                 </div>
             </div>
-            <input type="submit" class="btn btn-primary" name="confirmer" value="Confirmer" />
+            <input type="submit" action="pdo\ajoutInscription.php" class="btn btn-primary" name="confirmer" value="Confirmer" />
         </form>
     </div>
 </body>

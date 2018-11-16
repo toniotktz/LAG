@@ -22,6 +22,8 @@
     <Compile Include="index.php" />
     <Compile Include="Newletter.php" />
     <Compile Include="contact.php" />
+    <Compile Include="pdo\ajoutInscription.php" />
+    <Compile Include="pdo\connection.php" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="images\" />
