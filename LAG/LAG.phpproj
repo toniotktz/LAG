@@ -39,6 +39,7 @@
     <Folder Include="js\" />
     <Folder Include="jquery\" />
     <Folder Include="admin\" />
+    <Folder Include="business\" />
     <Folder Include="pdo\dao\" />
     <Folder Include="pdo\" />
     <Folder Include="pdo\modules\" />
@@ -74,7 +75,6 @@
     <Content Include="images\yugioh_Home.jpg" />
     <Content Include="images\yugiStat3.jpg" />
     <Content Include="js\bootstrap.bundle.min.js" />
-    <Content Include="js\form.js" />
     <Content Include="js\jquery.easing.min.js" />
     <Content Include="js\jquery.min.js" />
     <Content Include="svg\si-glyph-abacus.svg" />
