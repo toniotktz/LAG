@@ -17,6 +17,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="admin\dejaVu.php" />
+    <Compile Include="business\insertInscription.php" />
     <Compile Include="business\postData.php" />
     <Compile Include="pdo\dao\daoArticle.php" />
     <Compile Include="pdo\dao\daoInscription.php" />

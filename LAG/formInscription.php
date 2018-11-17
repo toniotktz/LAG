@@ -4,7 +4,7 @@
 <body>
     <div class="container" style="margin-top:30px">
         <h1>Formulaire d'inscription</h1>
-        <form action="pdo\ajoutInscription.php" method="post">
+        <form action="<?= $path ?>/business/insertInscription.php" method="post">
             <div class="row">
                 <div class="form-group col-sm-6">
                     <label for="Nom">Nom:</label>
@@ -33,4 +33,3 @@
 </body>
 <?php require "footer.php";?>
 </html>
-<?php include "pdo\ajoutInscription.php";?>
