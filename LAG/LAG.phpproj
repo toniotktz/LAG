@@ -36,6 +36,7 @@
     <Folder Include="js\" />
     <Folder Include="jquery\" />
     <Folder Include="admin\" />
+    <Folder Include="dao\" />
     <Folder Include="pdo\" />
     <Folder Include="pdo\modules\" />
     <Folder Include="pdo\config\" />
