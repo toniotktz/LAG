@@ -22,8 +22,8 @@
     <Compile Include="index.php" />
     <Compile Include="Newletter.php" />
     <Compile Include="contact.php" />
-    <Compile Include="pdo\ajoutInscription.php" />
-    <Compile Include="pdo\database.php" />
+    <Compile Include="pdo\config\config.php" />
+    <Compile Include="pdo\modules\bdd_util.php" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="images\" />
@@ -37,6 +37,8 @@
     <Folder Include="jquery\" />
     <Folder Include="admin\" />
     <Folder Include="pdo\" />
+    <Folder Include="pdo\modules\" />
+    <Folder Include="pdo\config\" />
     <Folder Include="svg\" />
   </ItemGroup>
   <ItemGroup>
