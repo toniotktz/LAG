@@ -1,13 +1,16 @@
 <?php
 
-/**
- * postData short summary.
- *
- * postData description.
- *
- * @version 1.0
- * @author antoi
- */
-class postData
-{
-}
+require_once("../../pdo/dao/dao.php");
+session_start(); //ccommence la session
+
+$data = $_POST["data"];
+var_dump($data);
+
+
+
+insertTexte($data);
+
+session_end();
+
+
+?>
