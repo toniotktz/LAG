@@ -16,6 +16,7 @@
     <IncludeDebugInformation>false</IncludeDebugInformation>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="admin\dejaVu.php" />
     <Compile Include="business\postData.php" />
     <Compile Include="pdo\dao\daoArticle.php" />
     <Compile Include="pdo\dao\daoInscription.php" />
@@ -41,6 +42,7 @@
     <Folder Include="jquery\" />
     <Folder Include="admin\" />
     <Folder Include="business\" />
+    <Folder Include="sql\" />
     <Folder Include="pdo\dao\" />
     <Folder Include="pdo\" />
     <Folder Include="pdo\modules\" />
@@ -80,6 +82,7 @@
     <Content Include="js\ckeditor_admin.js" />
     <Content Include="jquery\jquery.easing.min.js" />
     <Content Include="jquery\jquery.min.js" />
+    <Content Include="sql\lag.sql" />
     <Content Include="svg\si-glyph-abacus.svg" />
     <Content Include="svg\si-glyph-adjustment-horizon.svg" />
     <Content Include="svg\si-glyph-adjustment-vertical.svg" />
