@@ -33,3 +33,4 @@
 </body>
 <?php require "footer.php";?>
 </html>
+<?php include "pdo\ajoutInscription.php";?>
