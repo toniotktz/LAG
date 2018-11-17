@@ -16,6 +16,9 @@
     <IncludeDebugInformation>false</IncludeDebugInformation>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="dao\daoArticle.php" />
+    <Compile Include="dao\daoInscription.php" />
+    <Compile Include="dao\daoUtilisateurs.php" />
     <Compile Include="footer.php" />
     <Compile Include="formInscription.php" />
     <Compile Include="header.php" />
