@@ -16,6 +16,7 @@
     <IncludeDebugInformation>false</IncludeDebugInformation>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="business\postData.php" />
     <Compile Include="pdo\dao\daoArticle.php" />
     <Compile Include="pdo\dao\daoInscription.php" />
     <Compile Include="pdo\dao\daoUtilisateurs.php" />
@@ -77,8 +78,8 @@
     <Content Include="js\ajax_ex.js" />
     <Content Include="js\bootstrap.bundle.min.js" />
     <Content Include="js\ckeditor_admin.js" />
-    <Content Include="js\jquery.easing.min.js" />
-    <Content Include="js\jquery.min.js" />
+    <Content Include="jquery\jquery.easing.min.js" />
+    <Content Include="jquery\jquery.min.js" />
     <Content Include="svg\si-glyph-abacus.svg" />
     <Content Include="svg\si-glyph-adjustment-horizon.svg" />
     <Content Include="svg\si-glyph-adjustment-vertical.svg" />

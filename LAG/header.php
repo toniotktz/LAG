@@ -7,8 +7,8 @@
 
     <!-- Importation bootstrapp -->
     <script src="js\bootstrap.bundle.min.js"></script>
-    <script src="js\jquery.easing.min.js"></script>
-    <script src="js\jquery.min.js"></script>
+    <script src="jquery\jquery.easing.min.js"></script>
+    <script src="jquery\jquery.min.js"></script>
     <img class="banniere" src="images\banniere2.png" />
     <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
         <a class="navbar-brand" href="Index.php">LAG</a>
