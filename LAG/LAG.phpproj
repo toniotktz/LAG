@@ -16,9 +16,9 @@
     <IncludeDebugInformation>false</IncludeDebugInformation>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="dao\daoArticle.php" />
-    <Compile Include="dao\daoInscription.php" />
-    <Compile Include="dao\daoUtilisateurs.php" />
+    <Compile Include="pdo\dao\daoArticle.php" />
+    <Compile Include="pdo\dao\daoInscription.php" />
+    <Compile Include="pdo\dao\daoUtilisateurs.php" />
     <Compile Include="footer.php" />
     <Compile Include="formInscription.php" />
     <Compile Include="header.php" />
@@ -39,7 +39,7 @@
     <Folder Include="js\" />
     <Folder Include="jquery\" />
     <Folder Include="admin\" />
-    <Folder Include="dao\" />
+    <Folder Include="pdo\dao\" />
     <Folder Include="pdo\" />
     <Folder Include="pdo\modules\" />
     <Folder Include="pdo\config\" />
