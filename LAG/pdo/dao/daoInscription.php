@@ -6,7 +6,7 @@ function insertInscription($inscription) {
     $bdd = connectDBS();
     //La requete
 
-    $query = "INSERT INTO  inscription(nom,prenom,email,telephone,ville,cp)
+    $query = "INSERT INTO  inscription(nom,prenom,email,telephone,ville,code_postal)
     VALUES (:nom,:prenom,:email,:telephone,:ville,:cp)";
 
     //Prepare la requete
@@ -19,11 +19,11 @@ function insertInscription($inscription) {
     $statement->bindParam('telephone', $inscription["telephone"]);
     $statement->execute();
     //Execute la requete
-    $res = $statement->fetch(PDO::FETCH_ASSOC);
+    /*$res = $statement->fetchAll(PDO::FETCH_ASSOC);
     //on test si update est bien passe
     if ($res && $statement->rowCount() > 0) {
         $retour = true;
-    }
+    }*/
     //Fermeture du statement
     $statement->closeCursor();
     //on ferme la connexion !
