@@ -1,5 +1,5 @@
 <?php
-require_once "/LAG/LAG/pdo/dao/daoInscription.php";
+require_once __DIR__."/../pdo/dao/daoInscription.php";
 
 $inscription = $_POST;
 $res = insertInscription($inscription);

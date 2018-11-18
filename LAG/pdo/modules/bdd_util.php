@@ -1,7 +1,7 @@
 <?php
 $url = $_SERVER['REQUEST_URI'];
 
-require_once('/LAG/LAG/pdo/config/config.php');
+require_once __DIR__."/../config/config.php";
 
 
 

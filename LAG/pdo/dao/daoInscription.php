@@ -1,6 +1,5 @@
 <?php
-
-require_once("/LAG/LAG/pdo/modules/bdd_util.php");
+require_once __DIR__."/../modules/bdd_util.php";
 
 function insertInscription($inscription) {
     //Connexion a la base de donnees

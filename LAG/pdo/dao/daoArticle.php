@@ -1,6 +1,6 @@
 <?php
 
-require_once("require_daos.php");
+require_once __DIR__."/../modules/bdd_util.php";
 
 
 /**
@@ -8,14 +8,14 @@ require_once("require_daos.php");
  * l'utilisateur qui l'a commande,
  * les dates de retrait et de depot du materiel
  * dans la base de donnée
- * @param $commander : 
+ * @param $commander :
  */
 function insertArticle($article) {
     //Connexion a la base de donnees
     $bdd = connectDBS();
     //La requete
 
-    /*$query = "INSERT INTO  () 
+    /*$query = "INSERT INTO  ()
               VALUES ()";*/
 
     //Prepare la requete
@@ -33,7 +33,7 @@ function insertArticle($article) {
     //on ferme la connexion !
     $bdd = NULL;
     //renvoie le resultat ok=true, false sinon
-    return $retour; 
+    return $retour;
 }
 
 // --------------------------------------------------------------------------------------------------------------------
@@ -41,13 +41,13 @@ function insertArticle($article) {
 function validerCommande($commande) {
 
     $bdd = connectDBS();
-    
-    $query = "UPDATE `commande` SET `Cvalidation` = 'valide' 
-    WHERE `commande`.`Cid` = (:commande)"; 
+
+    $query = "UPDATE `commande` SET `Cvalidation` = 'valide'
+    WHERE `commande`.`Cid` = (:commande)";
 
     $statement = $bdd->prepare($query);
     // $statement->bindParam(':user', $user);
-    
+
     $statement->bindParam(':commande', $commande);
     $statement->execute();
     //Execute la requete
@@ -57,7 +57,7 @@ function validerCommande($commande) {
     $bdd = NULL;
     //renvoie le resultat ok=true, false sinon
 
-    
+
 
 }
 
