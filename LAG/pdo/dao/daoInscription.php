@@ -1,5 +1,5 @@
 <?php
-require_once __DIR__."/../modules/bdd_util.php";
+require_once __DIR__."/../modules/bdd_util.php"; //__DIR__ permet de récuperer le path 
 
 function insertInscription($inscription) {
     //Connexion a la base de donnees
